@@ -1,0 +1,78 @@
+/* BARU */
+
+.plants {
+     padding: 90px 0px;
+}
+.titlepage {
+     text-align: center;
+     padding-bottom: 50px;
+}
+.titlepage h2 {
+     padding: 0px 0px 36px 0px;
+     font-size: 50px;
+     color: #050303;
+     line-height: 50px;
+     position: relative;
+     margin-bottom: 20px;
+}
+.titlepage h2::after {
+     content: "";
+     left: 0;
+     right: 0;
+     top: 70%;
+     margin: 10px auto;
+     width: 50%;
+     height: 6px;
+     background: #212529;
+}
+.titlepage span {
+     color: #000;
+     font-size: 17px;
+     line-height: 32px;
+     display: block;
+}
+.plants .plants-box {
+     background-color: #fff;
+     box-shadow:  0px 0px 7px #3D3C3D;
+     margin-bottom: 30px;
+
+}
+.plants .plants-box figure {
+     margin: 0px;
+}
+.plants .plants-box figure img {
+     width: 100%;
+  
+}
+.plants .plants-box h3 {
+     padding: 16px 20px 6px 20px;
+
+     color: tomato;
+}
+.plants .plants-box p {
+     font-size: 17px;
+     padding: 2px 2px;
+     color: #000;
+
+}
+.ex-basic-2 .container .plants h6{
+             padding: 10px;
+          
+             top: 5px;
+             color: tomato;
+             text-align: center;
+
+
+        }
+        .ex-basic-2 .container .plants p{
+             padding: 5px 15px;
+    
+             right: 20px
+
+        }
+        .ex-basic-2 .container .plants img{
+            border-radius: 20px 20px 0px 0px;
+        }
+        .plants .plants-box {
+        border-radius: 20px 20px 15px 15px;
+    }
